@@ -1,0 +1,71 @@
+[---<info>---]
+fm46VDQ0NDRLhVWvjNR5P2uLUt2TF5sEMw==
+[---<preferences>---]
+openInTab	2	true
+accounts.[gmail#nicolo.ormesi@gmail.com].count	1	24
+reuseTab	2	true
+startupDelay	1	500
+resetCounter	2	true
+checkOnStartup	2	true
+connections	1	4
+reloadTab	2	true
+alertSound	2	true
+multiSession	2	true
+customSound	2	false
+accounts.[hotmail#hormuz@hotmail.it].inboxOnly	2	true
+keepSessionForNewTab	2	true
+accounts.[gmail#nicolo.ormesi@gmail.com].showFolders	2	true
+enabled	2	true
+debug	1	0
+accounts.[gmail#nicolo.ormesi@gmail.com].inboxOnly	2	true
+alertTextStyle	0	
+loadInBackground	2	false
+showToolbarText	2	true
+shortcut.sidebar.modifiers	0	accel,alt
+accounts.[gmail#stecco87@gmail.com].inboxOnly	2	true
+dataColWidth	1	10
+accounts.[gmail#stecco87@gmail.com].enabled	1	2
+accounts.[scripts#default].enabled	1	0
+accounts.[hotmail#hormuz@hotmail.it].showFolders	2	true
+clearPasswdAlert	2	true
+connectionDelay	1	2000
+iconLeftClick	1	0
+updateInterval	1	10
+yahoo.showCaptcha	2	true
+startupOpenXN	2	false
+enableToolbar	2	true
+menuWindow	2	true
+inboxOnly	2	true
+shortcut.sidebar.key	0	X
+activityIcon	1	0
+showStatusbarIcon	2	true
+showNotification	2	true
+saveCookies	2	true
+defaults.hotmail	0	hormuz@hotmail.it
+accounts.[hotmail#hormuz@hotmail.it].order	1	0
+showFolders	2	true
+autoLoginDefaultAccount	2	true
+defaults.gmail	0	nicolo.ormesi@gmail.com
+accounts.[gmail#stecco87@gmail.com].count	1	29
+accounts.[hotmail#hormuz@hotmail.it].enabled	1	2
+notificationDelay	1	4000
+showBookmarkMenu	2	true
+showTabMenu	2	true
+menuShowData	2	true
+accounts.[gmail#nicolo.ormesi@gmail.com].enabled	1	2
+accounts.[app_forums#default].enabled	1	0
+soundUrl	0	
+accounts.[hotmail#hormuz@hotmail.it].count	1	1708
+menuSidebar	2	true
+maxConnections	1	15
+keepSession	2	false
+accounts.[gmail#stecco87@gmail.com].showFolders	2	true
+alertOrigin	1	0
+autoHideNotification	2	true
+[---<accounts>---]
+fm46VDg4ODhck3ZYYJ94+aK0Bpa2zPMtORtZuKtY2KC8eIO20FKX2FbgTZg5rsRYCS025ZqWcSgReDVL
+fm46VDs7Ozuzc+l+M6yMnPgKAjI7BiJ2blIOoajgTupdkBLQ+mN2HRogtj+9K0HSpWtSoGWjwV8lFnNaREBmdAvD
+fm46VD09PT3qzmVcsmSgBVCwjuQ85KsN21Hy9kuj/lrfdAeXasoQ44bH/InLuFI+h5laSN449Ua71X3JF/oh/RpQYsiOfZ5Yz7mUXzfzwtqBguitMz03TBtiHlJl
+fm46VEBAQEBycrMpCYS5GYw6FmigmdoIQIZ6tk//G09ttVFuaTKmWILcvg==
+fm46VEFBQUHK9yPmPJX54tgR9kxh0FHEV5yUpniodn07CH/IofQdvKog0kwNmw==
+[------]
